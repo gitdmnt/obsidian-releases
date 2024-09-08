@@ -2097,5 +2097,12 @@
     "repo": "omsandippatil/OISTNB",
     "screenshot": "OISTNB.png",
     "modes": ["dark", "light"]
-  }
+  },
+  {
+    "name": "MeishoMitei",
+    "author": "gitdmnt",
+    "repo": "gitdmnt/MeishoMitei",
+    "screenshot": "Screen shot.png",
+    "modes": ["light"]
+  },
 ]
